@@ -29,8 +29,8 @@ To run Eclipse (ECL) locally, ensure you have:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/eclipse.git
-cd eclipse
+git clone https://github.com/AlexanderGese/Eclipse-Crypto.git
+cd Eclipse-Crypto
 ```
 
 ### Build the Project
