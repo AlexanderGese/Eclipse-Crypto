@@ -125,5 +125,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 Eclipse (ECL) is for **educational purposes only**. Do not use this for real-world transactions or as a production-grade cryptocurrency.
 
 ---
-``` 
-
