@@ -73,19 +73,6 @@ Eclipse is **not** a fully functional cryptocurrency but a platform to learn abo
 
 ---
 
-## 📂 Project Structure
-```
-eclipse/
-├── src/
-│   ├── blockchain.rs    # Blockchain implementation
-│   ├── transaction.rs   # Transaction handling
-│   ├── miner.rs         # Mining logic
-│   ├── main.rs          # CLI and main entry point
-│   └── utils.rs         # Helper functions
-├── Cargo.toml           # Dependencies and metadata
-└── README.md            # Project documentation
-```
-
 ---
 
 ## 📝 Roadmap
